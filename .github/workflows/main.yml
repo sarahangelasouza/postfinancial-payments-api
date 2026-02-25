@@ -1,5 +1,6 @@
 name: Publish changes to Postman
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
