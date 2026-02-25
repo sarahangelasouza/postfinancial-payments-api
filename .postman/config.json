@@ -10,6 +10,8 @@
     "specs": [
       "../openapi-legacy.yaml"
     ],
-    "collections": []
+    "collections": [
+      "../postman/collections/PostFinancial Payments API - V1"
+    ]
   }
 }
