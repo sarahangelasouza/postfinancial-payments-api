@@ -12,4 +12,6 @@ cloudResources:
   environments:
     ../postman/environments/Dev Environment.environment.yaml: 5332ae16-891c-5ab2-b74a-7bcee9b1b654
   collections:
-    ../postman/collections/PostFinancial Payments API: 53115084-04e3111d-f438-441a-8e45-2fc0cd048ad7
+    ../postman/collections/PostFinancial Payments API: 53115084-d122df7b-289b-48a5-b456-51502614d64a
+  specs:
+    ../openapi-legacy.yaml: 48480d5f-ac68-4ecf-bc9a-a5b12ccab17a
